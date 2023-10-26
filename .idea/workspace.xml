@@ -1,21 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd2afbbe-ebe5-427b-a567-a11e828537f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="fd2afbbe-ebe5-427b-a567-a11e828537f6" name="Changes" comment="remove gitignore file">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/GateNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/GateNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/ParkingLotNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/ParkingLotNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParkingLotApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParkingLotApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strategies/SlotAllotmentStartegy/RandomSlotAllotmentStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategies/SlotAllotmentStartegy/RandomSlotAllotmentStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strategies/SlotAllotmentStartegy/SlotAllotmentStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategies/SlotAllotmentStartegy/SlotAllotmentStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strategies/SlotAllotmentStartegy/SlotAllotmentStrategyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategies/SlotAllotmentStartegy/SlotAllotmentStrategyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/TicketController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/TicketController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dtos/IssueTicketRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dtos/IssueTicketRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dtos/IssueTicketResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dtos/IssueTicketResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dtos/ResponseStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dtos/ResponseStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/BaseModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/BaseModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/FeesCalculationStrategyType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/FeesCalculationStrategyType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Gate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/GateType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/GateType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/ParkingFloor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ParkingFloor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/ParkingLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ParkingLot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/ParkingLotStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ParkingLotStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/ParkingSlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ParkingSlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/ParkingSlotStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ParkingSlotStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/SlotAllotmentStrategyType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/SlotAllotmentStrategyType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/GateRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repositories/GateRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/ParkingLotRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repositories/ParkingLotRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/TicketRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repositories/TicketRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/VehicleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repositories/VehicleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/TicketService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/TicketService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2XEVEfRfvugMZLMoKOALTG4ckfX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,8 +68,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "/home/abhishek/Documents/personalproject/parking_lot/src/Main.java"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "develop",
+    "onboarding.tips.debug.path": "/home/abhishek/Documents/personalproject/parking_lot/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,17 +83,28 @@
       <option name="presentableId" value="Default" />
       <updated>1698194117898</updated>
     </task>
+    <task id="LOCAL-00001" summary="add some more code">
+      <option name="closed" value="true" />
+      <created>1698290029170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698290029170</updated>
+    </task>
+    <task id="LOCAL-00002" summary="remove gitignore file">
+      <option name="closed" value="true" />
+      <created>1698290253671</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698290253671</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add some more code" />
+    <MESSAGE value="remove gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove gitignore file" />
   </component>
 </project>

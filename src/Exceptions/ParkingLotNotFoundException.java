@@ -1,4 +1,4 @@
 package Exceptions;
 
-public class ParkingLotNotFOundException {
+public class ParkingLotNotFoundException extends Exception {
 }

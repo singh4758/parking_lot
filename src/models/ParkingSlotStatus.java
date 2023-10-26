@@ -1,4 +1,6 @@
 package models;
 
-public class ParkingSpotStatus {
+import java.util.List;
+
+public enum ParkingSlotStatus {
 }

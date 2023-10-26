@@ -1,2 +1,4 @@
-package Exceptions;public class GateNotFoundException {
+package Exceptions;
+
+public class GateNotFoundException extends Exception{
 }

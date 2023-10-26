@@ -1,4 +1,4 @@
 package models;
 
-public class SlotAllotmentStartegy {
+public class SlotAllotmentStrategyType {
 }

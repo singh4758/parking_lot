@@ -1,2 +1,4 @@
-package models;public class FeesCalculationStrategyType {
+package models;
+
+public class FeesCalculationStrategyType {
 }
